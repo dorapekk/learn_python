@@ -20,7 +20,55 @@ PEOPLE = [
 {   
     "first_name": "Tasi",
     "last_name": "Tasnadi",
-    "favourite": ["sake"],
+    "favourite": [
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        "sake"],
 },
 {   
     "first_name": "Balazs",
